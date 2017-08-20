@@ -1,0 +1,15 @@
+@media (max-width: 768px){
+    .logo {
+        width:100%;
+        position: static;
+    }
+    .main-static-menu {
+        padding-left:0px;
+    }
+    .body-full{
+        padding-left:0px;
+    }
+.footer-full{
+    padding-left:0px;
+}
+}
